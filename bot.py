@@ -48,7 +48,7 @@ async def get_fact_from_api():
     async with aiohttp.ClientSession() as session:
         async with session.get("https://michigan-facts-ts.vercel.app/facts") as resp:
             data = await resp.json()
-            fact = data["randomFact"]["content"]
+            fact = data["fact"]
             return fact
 
 
