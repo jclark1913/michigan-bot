@@ -36,9 +36,6 @@ async def on_message(message):
     if message.author == bot.user:
         return
 
-    if message.content.startswith("!hello"):
-        await message.channel.send("Hello!")
-
     if "michigan" in message.content.lower():
         user = message.author.display_name
         fact = await get_fact_from_api()
