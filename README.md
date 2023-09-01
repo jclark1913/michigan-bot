@@ -61,7 +61,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+<div align="center">
 ![Product Name Screen Shot][product-screenshot]
+</div>
 
 Michigan Bot is a simple discord bot I built to educate/annoy my friends. Invite it to your server and any time someone mentions "Michigan" the bot responds with trivia about the state. The bot itself is written in Python using the discord.py library, while the facts themselves are accessed via an <a href="https://github.com/jclark1913/michigan-facts-ts">API</a> I built in Typescript.
 
