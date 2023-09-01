@@ -187,3 +187,4 @@ Project Link: [https://github.com/jclark1913/michigan-bot](https://github.com/jc
 [TypeScript]: https://img.shields.io/badge/typescript-%23007ACC.svg?&logo=typescript&logoColor=white
 [Prisma]: https://img.shields.io/badge/Prisma-3982CE?&logo=Prisma&logoColor=white
 [ChatGPT]: https://img.shields.io/badge/chatGPT-74aa9c?&logo=openai&logoColor=white
+[Python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
